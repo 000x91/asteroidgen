@@ -7,9 +7,7 @@ name: asteroidgen research origin
         name: asteroidgen research origin
         planet: asteroidgen
     }
-    shownPlanets: {
-        [serpulo,erekir,asteroidgen-ast_default,
+    shownPlanets: [serpulo,erekir,asteroidgen-ast_default,
             asteroidgen-asteroidgen,asteroidgen-asteroidgen_test,asteroidgen-astr_default]
-    }
     hiddenOnPlanets: []
 }
