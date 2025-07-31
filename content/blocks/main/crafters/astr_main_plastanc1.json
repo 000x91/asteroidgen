@@ -1,0 +1,16 @@
+{
+"category":"crafting",
+"consumes":{"power":3,"liquids":["oil/0.25"],"items":["titanium/2"]},
+"craftEffect":"formsmoke",
+"craftTime":60,
+"description":"the same plastanium compressor back in Serpulo",
+"liquidCapacity":60,
+"localisedName":"standard plastanium compressor",
+"outputItem":"plastanium/1"
+"requirements":["silicon/80","lead/115","graphite/60",titanium/80],
+"research":{"parent":"astr_main_sppr0"},
+"health":320,
+"size":2,
+"type":"GenericCrafter",
+"updateEffect":"plasticburn",
+}
